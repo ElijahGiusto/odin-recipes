@@ -1,0 +1,1 @@
+This project uses html to create a simple recipe website. This is meant to showcase my understanding of using elements in html such as ordered and unordered lists, paragraphs, headings, images, and links. All while keeping clean code and using proper file structure.
